@@ -12,7 +12,7 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 - A specific scope of Chatbot response model, using json data format.
 
 ## Project Flow
-![image](https://github.com/Y-CHETHAN/Chatbot-Enhanced-Hostel-Booking-System/assets/75234991/31f4483e-f653-44b4-8b4f-f23bacb189b6)
+![image](https://github.com/Y-CHETHAN/Tailored-Chatbot-for-Hostel-Booking-System/assets/75234991/ccfb2ab5-ce57-4a0b-b4c7-4fde8f308638)
 
 ## License
 
